@@ -76,7 +76,7 @@ public class Partie {
 
     public void ajouterJoueurs(ArrayList<Joueur> listeJoueurs) {
     	
-    	// Un commentaire
+    	// Un commentaire pour tester
     	
     	setListeJoueurs(listeJoueurs);
     	
