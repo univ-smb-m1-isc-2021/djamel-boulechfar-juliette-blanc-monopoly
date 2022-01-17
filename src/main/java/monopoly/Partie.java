@@ -76,6 +76,8 @@ public class Partie {
 
     public void ajouterJoueurs(ArrayList<Joueur> listeJoueurs) {
     	
+    	// Un commentaire
+    	
     	setListeJoueurs(listeJoueurs);
     	
     }
